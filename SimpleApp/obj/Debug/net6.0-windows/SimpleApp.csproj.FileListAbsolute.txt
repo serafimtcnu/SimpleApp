@@ -1,0 +1,17 @@
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\bin\Debug\net6.0-windows\SimpleApp.exe
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\bin\Debug\net6.0-windows\SimpleApp.deps.json
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\bin\Debug\net6.0-windows\SimpleApp.runtimeconfig.json
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\bin\Debug\net6.0-windows\SimpleApp.dll
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\bin\Debug\net6.0-windows\SimpleApp.pdb
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\SimpleApp.csproj.AssemblyReference.cache
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\SimpleApp.Form1.resources
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\SimpleApp.csproj.GenerateResource.cache
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\SimpleApp.AssemblyInfoInputs.cache
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\SimpleApp.AssemblyInfo.cs
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\SimpleApp.dll
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\refint\SimpleApp.dll
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\SimpleApp.pdb
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\SimpleApp.genruntimeconfig.cache
+C:\Users\Seraf\source\repos\SimpleApp\SimpleApp\obj\Debug\net6.0-windows\ref\SimpleApp.dll
