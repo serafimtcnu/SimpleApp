@@ -11,11 +11,16 @@ namespace SimpleApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //MessageBox.Show($"Hello {textBox1.Text} {textBox2.Text}");
-            //textBox2 .Text = $"{textBox1.Text} {textBox2.Text}";
-            //progressBar1.Value += 10;
+            MessageBox.Show($"Hello {textBox1.Text} {textBox2.Text}");
+            textBox2.Text = $"{textBox1.Text} {textBox2.Text}";
+            progressBar1.Value += 10;
 
-            Form1 frmn= new Form1();
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 frmn = new Form2();
             frmn.Show();
         }
     }
