@@ -13,9 +13,7 @@ namespace SimpleApp
         {
             MessageBox.Show($"Hello {textBox1.Text} {textBox2.Text}");
             textBox2.Text = $"{textBox1.Text} {textBox2.Text}";
-            progressBar1.Value += 10;
-
-            
+            progressBar1.Value += 10;           
         }
 
         private void button2_Click(object sender, EventArgs e)
